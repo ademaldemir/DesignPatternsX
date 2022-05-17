@@ -8,6 +8,6 @@ public class Rectangle extends Shape {
     // Refined Abstraction
     @Override
     public void draw() {
-        System.out.println("Rectangle".concat(" with ").concat(getDrawAPI().color()));
+        System.out.println("Rectangle".concat(" with ").concat(getColor().color()));
     }
 }

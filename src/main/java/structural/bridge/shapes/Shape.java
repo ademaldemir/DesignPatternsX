@@ -9,7 +9,7 @@ import lombok.*;
 public abstract class Shape {
     @Getter(AccessLevel.PROTECTED)
     @Setter(AccessLevel.PRIVATE)
-    private Color drawAPI;
+    private Color color;
 
     public abstract void draw();
 }

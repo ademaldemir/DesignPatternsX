@@ -8,6 +8,6 @@ public class Circle extends Shape {
     // Refined Abstraction
     @Override
     public void draw() {
-        System.out.println("Circle".concat(" with ").concat(getDrawAPI().color()));
+        System.out.println("Circle".concat(" with ").concat(getColor().color()));
     }
 }
