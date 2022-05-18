@@ -12,6 +12,8 @@
 - Composite
 
 
+Presentation doc will be shared after presentation.
+
 ----
 
 ###### Connect via [Linkedin](https://www.linkedin.com/in/ademaldemir/ "Adem Aldemir")
