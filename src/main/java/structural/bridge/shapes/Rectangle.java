@@ -1,8 +1,8 @@
 package structural.bridge.shapes;
 
 public class Rectangle extends Shape {
-    public Rectangle(Color drawAPI) {
-        super(drawAPI);
+    public Rectangle(Color color) {
+        super(color);
     }
 
     // Refined Abstraction

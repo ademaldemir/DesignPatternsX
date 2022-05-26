@@ -1,8 +1,8 @@
 package structural.bridge.shapes;
 
 public class Circle extends Shape {
-    public Circle(Color drawAPI) {
-        super(drawAPI);
+    public Circle(Color color) {
+        super(color);
     }
 
     // Refined Abstraction
